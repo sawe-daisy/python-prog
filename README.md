@@ -10,7 +10,7 @@ Welcome aboard fellow developer, This is a Python scripts which you are free to 
 ### Instructions
 - Make sure python3 and pytest is installed is installed in your machine
 - Clone this github repository
-- open the project and run checkList.py
+- open the project and run ```python3 checkList.py```
 - You will be prompted to enter list of numbers, do so with comma separeted values.
 - Your modified list will be printed 
 - Use this command to run unit tests 
